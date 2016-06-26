@@ -1,0 +1,20 @@
+h1 {
+	text-align: center;
+}
+.instruct {
+	color: darkgreen;
+	text-align: center;
+	margin-top: 25px;
+	font-size: 25px;
+}
+.row {
+	text-align: center;
+	margin-top: 50px;
+	border-left: 2px solid red;
+}
+#choose {
+	margin-top: 7px;
+}
+#filename {
+	margin: 0 auto;
+}
